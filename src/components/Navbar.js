@@ -109,7 +109,7 @@ function NavBar() {
                 className="fork-btn-inner"
               >
                 <img
-                  src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"
+                  src="https://i.ibb.co/MM3fcRy/discord-logo-logodownload-download-logotipos-1.png"
                   alt="Discord"
                   style={{ width: "20px", marginRight: "5px" }}
                 />
