@@ -108,8 +108,12 @@ function NavBar() {
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
+                <img
+                  src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"
+                  alt="Discord"
+                  style={{ width: "20px", marginRight: "5px" }}
+                />
+                I'm active on Discord, talk to me
               </Button>
             </Nav.Item>
           </Nav>
