@@ -39,7 +39,7 @@ function Projects() {
               title="Bits-0f-C0de"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/Toni4ALG"
-              demoLink="https://discord.gg/alg0community0-710947717031133197"
+              demoLink="https://blog.alg-community.eu.org/"
             />
           </Col>
 
