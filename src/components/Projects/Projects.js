@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Discord Ai Bot"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Unlock the power of AI in our Discord room. Join us to learn the latest AI methodologies and expand your knowledge."
               ghLink="https://github.com/Toni4ALG"
               demoLink="https://discord.gg/alg0community0-710947717031133197"
             />
@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Blog"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/Toni4ALG"
               demoLink="https://blog.alg-community.eu.org/"
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Mini GAMES Cloud"
+              description="Welcome to our innovative project! Our website provides a seamless gaming and application experience, allowing you to play and use a variety of games and applications directly in your browser on both mobile and desktop devices."
               ghLink="https://github.com/Toni4ALG"
-              demoLink="https://discord.gg/alg0community0-710947717031133197"            
+              demoLink="https://gg.algc.eu.org/"            
             />
           </Col>
 
@@ -58,8 +58,8 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              title="Quran APP"
+              description="a small website offering a Quran application for mobile and desktop. With this website, you can conveniently access and use the application directly on your browser, without the need for any downloads."
               ghLink="https://github.com/Toni4ALG"
               demoLink="https://discord.gg/alg0community0-710947717031133197"
             />
@@ -69,8 +69,8 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              title="Best AI Discord Bot 4ever"
+              description="Discord bot uses chat and has powers to expel members from the servers, join the voice room, and play music via artificial intelligence."
               ghLink="https://github.com/Toni4ALG"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" 
             />
@@ -80,8 +80,8 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
+              title="Soon"
+              description="Thxx thxnxr x Clxssxfxr xsxng 'Fxx-2013 dxxtxst' wxth Kxrxs xnd txfsxrlxw bxxkxnd. Thx clxssxfxr sxccxssfxlly pxxdxctxd thx vxxxxsx typxs xf xmxtxxns xf hxmxn. Xnd thx hxxhxst xccxrxcy xbtxxxd wxxh thx mxdxl wxs 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               ghLink="https://github.com/Toni4ALG"
               // demoLink="https://blogs.soumya-jit.tech/"      
